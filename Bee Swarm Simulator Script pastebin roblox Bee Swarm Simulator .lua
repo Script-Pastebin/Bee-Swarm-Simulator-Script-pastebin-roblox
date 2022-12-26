@@ -1,11 +1,11 @@
 -- find more powerfull verified and New Scripts here : https://script-pastebin.com
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TSQ-new/Artem/master/TT"))();
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/AltsegoD/script/master/BeeSwarmSimulator.lua')))()
 
 -- find more powerfull verified and New Scripts here : https://scriptpastebin.io
 
 --[[ Script Description:
 
-							A very good script for Bee Swarm Simulator that can crash the server and much more...
+							A very popular game around the world, bringing you the latest cool script :)
 						
 ]]
